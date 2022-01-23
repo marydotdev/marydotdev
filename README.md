@@ -1,22 +1,19 @@
-### Hi there 👋
+<div align="center"> 
+  
+![marydotdev](https://user-images.githubusercontent.com/82406295/150695852-3d14693d-cfc3-4603-9f01-88c0be318c42.png)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=marydotdev)](https://github.com/marydotdev)
+  
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Svelte](https://img.shields.io/badge/svelte-%23f1413d.svg?style=for-the-badge&logo=svelte&logoColor=white)
 
-[![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=marydotdev&layout=wide)](https://twitter.com/marydotdev)
+Hey! My name is Mary Haedrich, I'm a fullstack developer 👩‍💻
+  
+[![Mary.dev](https://img.shields.io/badge/-mary.dev-1d1d1d?style=for-the-badge&logo=githubsponsors)](https://mary.dev)
+  [![Twitter](https://img.shields.io/badge/@marydotdev-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/marydotdev)
+  [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/marydotdev)
+  
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=mhaedrich&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
-<!--
-**marydotdev/marydotdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
