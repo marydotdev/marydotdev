@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=marydotdev)](https://github.com/marydotdev)
+
 [![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=marydotdev&layout=wide)](https://twitter.com/marydotdev)
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=mhaedrich&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
