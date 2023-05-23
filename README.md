@@ -3,4 +3,4 @@
 
 internet explorer 🌐
 fullstack developer 👩‍💻
-aspiring kelp farmer 🪸
+aspiring kelp farmer 👩‍🌾
